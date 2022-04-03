@@ -1,0 +1,11 @@
+Download Bootstrap : https://getbootstrap.com/2.3.2/
+Download jquery : https://jquery.com/download/
+
+https://localhost/arduino_ethernet/home.php  lien to home page
+
+
+
+nodemcu_rfidrc522_mysql   database 
+table_nodemcu_rfidrc522_mysql        table database
+
+
